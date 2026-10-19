@@ -1,0 +1,24 @@
+{
+  "name": "applypilot",
+  "version": "0.3.0",
+  "description": "Applied to 1,000 jobs in 2 days. Fully autonomous. Open source.",
+  "type": "module",
+  "author": "Abdullah Formuli <authrainmedia@gmail.com> (https://github.com/authrain-cloud-abdullahformuli)",
+  "license": "AGPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/ApplyPilot.git"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/ApplyPilot#readme",
+  "scripts": {
+    "test": "node test.mjs",
+    "compile": "python3 -m compileall src"
+  },
+  "keywords": [
+    "job-search",
+    "automation",
+    "ai-agents",
+    "applypilot",
+    "career-ops"
+  ]
+}

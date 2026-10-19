@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use ApplyPilot in your research, workflows, or projects, please cite it as below."
+authors:
+  - family-names: Formuli
+    given-names: Abdullah
+    email: authrainmedia@gmail.com
+    website: "https://github.com/authrain-cloud-abdullahformuli"
+title: "ApplyPilot: AI-Powered Autonomous Job Application Pipeline"
+version: 0.3.0
+date-released: 2026-10-18
+url: "https://github.com/authrain-cloud-abdullahformuli/ApplyPilot"
+repository-code: "https://github.com/authrain-cloud-abdullahformuli/ApplyPilot"
+license: AGPL-3.0-only
+keywords:
+  - job-search
+  - automation
+  - ai-agents
+  - browser-automation
+  - career-tools
